@@ -1,0 +1,5 @@
+{
+    "particle.targetDevice": "EM1",
+    "particle.firmwareVersion": "5.8.0",
+    "particle.targetPlatform": "p2"
+}
